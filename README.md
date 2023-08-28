@@ -6,15 +6,20 @@ Modeled after the provided sample seed Python Web App integrated with ID.me via 
 Setup AWS EC2 - Amazon Linux instance
 
 Install Prereqs
+````bash
 sudo pip install git
 sudo pip install pip
+````
 
 Clone repo
+````bash
 git clone https://github.com/franciscoa19/id-me.git
+````
 
 Go to directory
+````bash
 cd id-me
-
+````
 
 Set your client configuration settings in `server.py`
 
