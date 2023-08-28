@@ -1,6 +1,5 @@
 # ID.me Solution Consultant Exercise
-This is Francisco Esqueda's exercise submission
-Modeled after the provided sample seed Python Web App integrated with ID.me via OAuth 2.0
+This is Francisco Esqueda's exercise submission modeled after the provided sample seed Python Web App integrated with ID.me via OAuth 2.0
 
 # Installation and Setup
 Setup AWS EC2 - Amazon Linux instance
