@@ -12,6 +12,8 @@ authorization_base_url = 'https://api.id.me/oauth/authorize'
 token_url              = 'https://api.id.me/oauth/token'
 attributes_url         = 'https://api.id.me/api/public/v3/attributes.json'
 
+scope = ['military']
+
 @app.route("/")
 
 def demo():
