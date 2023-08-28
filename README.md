@@ -26,4 +26,4 @@ pip install -r requirements.txt
 python server.py
 ````
 
-Now you can view the app at [http://localhost:5000](http://localhost:5000)
+Now you can view the app at fran.app
