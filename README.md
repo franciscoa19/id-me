@@ -1,10 +1,22 @@
-# ID.me Sample Python Web App
-This is a sample seed Python Web App integrated with ID.me via OAuth 2.0
+# ID.me Solution Consultant Exercise
+This is Francisco Esqueda's exercise submission
+Modeled after the provided sample seed Python Web App integrated with ID.me via OAuth 2.0
 
 # Installation and Setup
-In order to run the example you need to have `python` and `pip` installed.
+Setup AWS EC2 - Amazon Linux instance
 
-First set your client configuration settings in `server.py`
+Install Prereqs
+sudo pip install git
+sudo pip install pip
+
+Clone repo
+git clone https://github.com/franciscoa19/id-me.git
+
+Go to directory
+cd id-me
+
+
+Set your client configuration settings in `server.py`
 
 ````bash
 # server.py
