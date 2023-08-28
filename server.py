@@ -4,10 +4,10 @@ from requests_oauthlib import OAuth2Session
 
 app = Flask(__name__)
 
-# Get this information by registering your app at https://developer.id.me
+# Using OAuth secret provided in exercise for sandbox, would not include this in prod 
 client_id              = '28bf5c72de76f94a5fb1d9454e347d4e'
 client_secret          = '3e9f2e9716dba6ec74a2e42e90974828'
-redirect_uri           = 'YOUR_REDIRECT_URI'
+redirect_uri           = 'http://fran.app/callback'
 authorization_base_url = 'https://api.id.me/oauth/authorize'
 token_url              = 'https://api.id.me/oauth/token'
 attributes_url         = 'https://api.id.me/api/public/v3/attributes.json'
