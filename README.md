@@ -6,8 +6,8 @@ Setup AWS EC2 - Amazon Linux instance
 
 Install Prereqs
 ````bash
-sudo pip install git
-sudo pip install pip
+sudo yum install git
+sudo yum install pip
 ````
 
 Clone repo
