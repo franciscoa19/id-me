@@ -42,4 +42,4 @@ pip install -r requirements.txt
 python server.py
 ````
 
-Now you can view the app at fran.app
+Now you can view the app at http://3.144.124.93:5000/
